@@ -1,4 +1,4 @@
-* {
+div {
   width: 300px;
   height: 100px;
   margin: auto;
@@ -26,4 +26,8 @@
 
 div:hover {
   height: 200px;
+}
+
+body {
+  margin: auto;
 }
